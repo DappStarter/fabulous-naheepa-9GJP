@@ -1,0 +1,10 @@
+{
+    "name": "FS 0.01",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage/core-sia": true,
+        "/category/file_storage/core-sia/mode": "single"
+    }
+}
